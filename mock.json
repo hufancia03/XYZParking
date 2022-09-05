@@ -1,0 +1,313 @@
+[{
+	"height": 89.81818389892578,
+	"left": 2.1818182468414307,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 1,
+		"name": "SP",
+		"perHourRate": 20
+	},
+	"top": 140,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 45.818180084228516,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 2,
+		"name": "MP",
+		"perHourRate": 60
+	},
+	"top": 140,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 133.09091186523438,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 3,
+		"name": "SP",
+		"perHourRate": 20
+	},
+	"park": {},
+	"top": 140,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 176.72727966308594,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 4,
+		"name": "MP",
+		"perHourRate": 60
+	},
+	"park": {},
+	"top": 140,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 220.36363220214844,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 5,
+		"name": "LP",
+		"perHourRate": 100
+	},
+	"park": {},
+	"top": 140,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 307.6363525390625,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 6,
+		"name": "MP",
+		"perHourRate": 60
+	},
+	"park": {},
+	"top": 140,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 351.2727355957031,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 7,
+		"name": "LP",
+		"perHourRate": 100
+	},
+	"top": 140,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 2.1818182468414307,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 8,
+		"name": "MP",
+		"perHourRate": 60
+	},
+	"top": 280,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 45.818180084228516,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 9,
+		"name": "MP",
+		"perHourRate": 60
+	},
+	"top": 280,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 133.09091186523438,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 10,
+		"name": "SP",
+		"perHourRate": 20
+	},
+	"top": 280,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 176.72727966308594,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 11,
+		"name": "MP",
+		"perHourRate": 60
+	},
+	"top": 280,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 220.36363220214844,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 12,
+		"name": "LP",
+		"perHourRate": 100
+	},
+	"top": 280,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 307.6363525390625,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 13,
+		"name": "SP",
+		"perHourRate": 20
+	},
+	"top": 280,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 351.2727355957031,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 14,
+		"name": "LP",
+		"perHourRate": 100
+	},
+	"top": 280,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 2.1818182468414307,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 15,
+		"name": "SP",
+		"perHourRate": 20
+	},
+	"top": 420,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 45.818180084228516,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 16,
+		"name": "SP",
+		"perHourRate": 20
+	},
+	"top": 420,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 133.09091186523438,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 17,
+		"name": "SP",
+		"perHourRate": 20
+	},
+	"top": 420,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 176.72727966308594,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 18,
+		"name": "MP",
+		"perHourRate": 60
+	},
+	"top": 420,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 220.36363220214844,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 19,
+		"name": "LP",
+		"perHourRate": 100
+	},
+	"top": 420,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 307.6363525390625,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 20,
+		"name": "LP",
+		"perHourRate": 100
+	},
+	"top": 420,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 351.2727355957031,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 21,
+		"name": "LP",
+		"perHourRate": 100
+	},
+	"top": 420,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 2.1818182468414307,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 22,
+		"name": "MP",
+		"perHourRate": 60
+	},
+	"top": 560,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 45.818180084228516,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 23,
+		"name": "MP",
+		"perHourRate": 60
+	},
+	"top": 560,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 133.09091186523438,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 24,
+		"name": "SP",
+		"perHourRate": 20
+	},
+	"top": 560,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 176.72727966308594,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 25,
+		"name": "MP",
+		"perHourRate": 60
+	},
+	"top": 560,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 220.36363220214844,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 26,
+		"name": "LP",
+		"perHourRate": 100
+	},
+	"top": 560,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 307.6363525390625,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 27,
+		"name": "SP",
+		"perHourRate": 20
+	},
+	"top": 560,
+	"width": 39.6363639831543
+}, {
+	"height": 89.81818389892578,
+	"left": 351.2727355957031,
+	"parkingdetails": {
+		"fixRate": 40,
+		"id": 28,
+		"name": "SP",
+		"perHourRate": 20
+	},
+	"top": 560,
+	"width": 39.6363639831543
+}]

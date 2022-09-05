@@ -1,0 +1,16 @@
+export default {
+	colorPrimary: "#FFD548",
+	white: "#FFFFFF",
+	red: "red",
+	black: "black",
+	yellow: "yellow",
+	blue1: "#277DF1",
+	blue2: "#2F80ED",
+	blue3: "#E8F2FF",
+	border: "#999999",
+	border1: "#E9E9E9",
+	border2: "#EBEBEB",
+	border3: "#C3CADC",
+	border4: "#D4D4D4",
+	transparent: "transparent",
+};
